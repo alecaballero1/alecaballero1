@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandra Caballero</h1>
-<h4 align="center">I'm a bionformatics masters student at DTU.</h4>
+<h4 align="center">I'm a bioinformatics masters student at DTU.</h4>
 <h4 align="center">I recently found a lot of enjoyment working in the field of bioinformatics and plan on expanding my skill set. Python is my main language and is what I've been working with throughmy entire degree</h4>
 
 - 🔭 I’m currently working on [SQLBot](https://github.com/alecaballero1/SQLbot)
